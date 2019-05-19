@@ -115,3 +115,7 @@ Vector(T* first, T* last) {
 * std::vector - 25 perskirstymai
 * Vector - 13 perskirstymų
 
+### Palyginimas programoje su 100 000 mokinių
+
+* std::vector - 1.035s
+* Vector - 9.496s
