@@ -119,3 +119,19 @@ Vector(T* first, T* last) {
 
 * std::vector - 10.492s
 * Vector - 9.496s
+
+### Paleidimas
+
+**makefile**
+
+1. Įsikelti makefile į **vector** direktoriją
+2. Per terminalą įeiti į vector direktoriją
+3. Įrašyti **make**
+4. Baigus darbą įrašyti **make Valymas**
+
+**CMakeLists.txt**
+1. Per terminalą įeiti **iki** vector direktoriją
+2. Suvesti **cmake CMakeLists.txt**
+3. Įeiti į Vector direktoriją
+4. Įrašyti build
+5. Įrašyti ./Vector
