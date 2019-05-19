@@ -117,5 +117,5 @@ Vector(T* first, T* last) {
 
 ### Palyginimas programoje su 100 000 mokinių
 
-* std::vector - 1.035s
+* std::vector - 10.492s
 * Vector - 9.496s
