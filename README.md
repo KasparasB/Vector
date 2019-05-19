@@ -100,3 +100,18 @@ Vector(T* first, T* last) {
 		sz = count;
 	}
 ```
+
+### Vektorių užpildymas
+
+| Dydis    | std::vector | Vector  |
+|----------|-------------|-------------|
+| 10 000     | 0.0064255s s | 0.0002147s   |
+| 100 000   | 0.0642805s | 0.0023406s |
+| 1 000 000  | 0.6417691s | 0.0196814s |
+| 10 000 000 | 6.2121849s s  | 0.2075280s s |
+
+### Perskirstymai
+
+std::vector - 25 perskirstymai
+Vector - 13 perskirstymų
+
