@@ -112,6 +112,6 @@ Vector(T* first, T* last) {
 
 ### Perskirstymai
 
-std::vector - 25 perskirstymai
-Vector - 13 perskirstymų
+* std::vector - 25 perskirstymai
+* Vector - 13 perskirstymų
 
