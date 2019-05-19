@@ -222,8 +222,6 @@ public:
 	{
 		int k = 0;
 		if (sz == cap) {
-			k++;
-			std::cout << k << std::endl;
 			cap <<= 2;
 			reallocate();
 		}
